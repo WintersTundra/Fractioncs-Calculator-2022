@@ -1,5 +1,11 @@
-# Fractions-Calculator----Dated-2022
+# Fractions Calculator
 Personal project <br>
 2022-2022 <br><br>
 
-A calculator the deals with addition, subtraction, multiplication, division, fraction reduction, and equality verification using methods that set/get/change the numerator/denominator.
+A terminal-based fraction calculator app written in C++ that can add, subtract, multiply, divide, reduce, and verify equality. 
+
+Uses OOP with the `fractions` class.
+
+## Sample Operations
+
+
